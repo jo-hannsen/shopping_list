@@ -1,0 +1,68 @@
+html {
+	font-family: 'Press Start 2P', cursive;
+	background-color: #18222E;
+	margin: 2em;
+}
+
+h1 {
+	color: #C1DCFF;
+}
+
+ul {
+	color: whitesmoke;
+}
+
+li {
+	margin-top: 1em;
+}
+
+#first {
+	color: orange;
+}
+
+#input, #enter, #del, #userinput {
+	font-family: 'Press Start 2P', cursive;
+	border-radius: 3px;
+	border: thin solid white;
+	height: 2rem;
+}
+
+#enter {
+	background-color: green;
+	color: white;
+	font-weight: bold;
+}
+
+#del {
+	background-color: tomato;
+	color: white;
+	font-weight: bold;
+	margin-left: 1em;
+}
+
+#userinput {
+	background-color: white;
+	color: darkslategray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.done {
+	text-decoration: line-through 3px;
+}
